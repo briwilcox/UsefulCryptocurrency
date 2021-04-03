@@ -52,7 +52,7 @@ https://github.com/ethereumbook/ethereumbook
 
 ### Supplementary
 
-** Crypto Reading **  
+**Crypto Reading**  
 Author: Dan Romero  
 https://danromero.org/crypto-reading/  
 
