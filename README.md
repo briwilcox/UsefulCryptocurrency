@@ -43,6 +43,10 @@ https://blog.coinbase.com/ethereum-is-the-forefront-of-digital-currency-5300298f
 Author: Balaji S. Srinivasan  
 https://news.earn.com/thoughts-on-tokens-436109aabcbe  
 
+**Bitcoin (AVC)**  
+Author: Fred Wilson  
+https://avc.com/2011/11/bitcoin/  
+
 ### Deep Dives
 
 **Mastering Bitcoin**  
