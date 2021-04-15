@@ -31,6 +31,9 @@ https://ethereum.org/en/whitepaper/
 Video Creator: 3Blue1Brown  
 https://www.youtube.com/watch?v=bBC-nXj3Ng4  
 
+**An Introduction to Ethereum**  
+Author: Greyscale  
+https://grayscale.co/wp-content/uploads/2020/02/Grayscale-Building-Blocks-Ethereum-February-2020.pdf
 
 **Ethereum is the Forefront of Digital Currency**  
 Author: Fred Ehrsam  
@@ -49,6 +52,16 @@ https://github.com/bitcoinbook/bitcoinbook
 **Mastering Ethereum**  
 Authors: Andreas M. Antonopoulos, Gavin Wood  
 https://github.com/ethereumbook/ethereumbook  
+
+### DAOs
+
+**A beginner’s guide to DAOs**  
+Author: Linda Xie  
+https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o
+
+**On Crypto Governance**  
+Author: Jeff Amico  
+https://a16z.com/2021/02/05/on-crypto-governance/  
 
 ### Supplementary
 
