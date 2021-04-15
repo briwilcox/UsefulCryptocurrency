@@ -63,6 +63,20 @@ https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o
 Author: Jeff Amico  
 https://a16z.com/2021/02/05/on-crypto-governance/  
 
+### NFTs  
+
+**Non-Fungible Tokens (NFT): Beginner's Guide**  
+Author: Melanie Kramer and Daniel Phillips  
+https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain  
+
+**A beginner's guide to NFTs**  
+Author: Linda Xie  
+https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d  
+
+**Zora White Paper**  
+Author: Zora  
+https://zora.engineering/whitepaper  
+
 ### Supplementary
 
 **Crypto Reading**  
